@@ -1,0 +1,19 @@
+# Spanish strings go here for Rails i18n
+es:
+  label_task_board: Panel de Tareas
+  task_board_help: Necesita crear columnas para su panel de tareas. Cada columna puede representar múltiples estados de una tarea.
+  task_board_column_title: Título de columma
+  task_board_create_column: Crear columna
+  label_task_board_application_error: Error inesperado de la aplicación
+  task_board_statuses: Estados
+  task_board_columns: Columnas
+  task_board_not_shown: No mostrado
+  task_board_visible_columns: Columnas visibles
+  task_board_task_limit: Número máximo de tareas
+  task_board_save_changes: Guardar cambios
+  task_board_issue_archived: La tarea ha sido archivada desde la vista del panel de tareas y no será mostrada.
+  task_board_issue_unarchive: Desarchivar tarea
+  task_board_issue_bulk_archive: Archivo tareas seleccionadas
+  task_board_issue_bulk_edit: Editar tareas seleccionadas
+  task_board_not_prioritized: Otras tareas
+  task_board_prioritized: Tares prioritarias
